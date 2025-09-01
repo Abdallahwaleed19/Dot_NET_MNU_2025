@@ -1,0 +1,4 @@
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\obj\Debug\net8.0\Day02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\obj\Debug\net8.0\Day02.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\obj\Debug\net8.0\Day02.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\obj\Debug\net8.0\Day02.csproj.CoreCompileInputs.cache

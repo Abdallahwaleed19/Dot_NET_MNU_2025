@@ -1,0 +1,8 @@
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\bin\Debug\Day03_oop.exe.config
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\bin\Debug\Day03_oop.exe
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\bin\Debug\Day03_oop.pdb
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\obj\Debug\Day03_oop.csproj.AssemblyReference.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\obj\Debug\Day03_oop.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\obj\Debug\Day03_oop.exe
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\obj\Debug\Day03_oop.pdb
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day03 oop\Day03_oop\Day03_oop\obj\Debug\Day03_oop.exe.config
