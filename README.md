@@ -29,72 +29,63 @@ It covers different C# concepts including OOP, Collections, LINQ, Exception Hand
 C#
 ├── Day01
 │ ├── Day01.sln
-│ ├── Day01/
-│ │ ├── App.config
-│ │ ├── Day01.csproj
-│ │ ├── Program.cs
-│ │ ├── Properties/
-│ │ │ └── AssemblyInfo.cs
-│ │ ├── bin/
-│ │ │ └── Debug/
-│ │ │ ├── Day01.exe
-│ │ │ ├── Day01.exe.config
-│ │ │ └── Day01.pdb
-│ │ └── obj/
-│ │ └── Debug/
-│ │ ├── Day01.exe
-│ │ └── Day01.pdb
+│ └── Day01/
+│ ├── App.config
+│ ├── Day01.csproj
+│ ├── Program.cs
+│ └── Properties/
+│ └── AssemblyInfo.cs
 │
 ├── Day02
 │ ├── Day02.sln
-│ ├── Day02/
-│ │ ├── App.config
-│ │ ├── Day02.csproj
-│ │ ├── Program1.cs
-│ │ ├── Program2.cs
-│ │ ├── Program3.cs
-│ │ ├── Program4.cs
-│ │ ├── Program5.cs
-│ │ ├── Properties/
-│ │ │ └── AssemblyInfo.cs
+│ └── Day02/
+│ ├── App.config
+│ ├── Day02.csproj
+│ ├── Program1.cs
+│ ├── Program2.cs
+│ ├── Program3.cs
+│ ├── Program4.cs
+│ ├── Program5.cs
+│ └── Properties/
+│ └── AssemblyInfo.cs
 │
 ├── Day03
 │ ├── Day03.sln
-│ ├── Day03/
-│ │ ├── BankAccount.cs
-│ │ ├── Program.cs
-│ │ ├── Day03.csproj
+│ └── Day03/
+│ ├── BankAccount.cs
+│ ├── Program.cs
+│ └── Day03.csproj
 │
 ├── Day04
 │ ├── Day04.sln
-│ ├── Day04/
-│ │ ├── Program.cs
-│ │ ├── Car.cs
-│ │ ├── Circle.cs
-│ │ ├── Rectangle.cs
-│ │ ├── Shape.cs
-│ │ ├── Phone.cs
-│ │ ├── SmartPhone.cs
-│ │ ├── Tablet.cs
-│ │ ├── Interfaces & Classes...
+│ └── Day04/
+│ ├── Program.cs
+│ ├── Car.cs
+│ ├── Circle.cs
+│ ├── Rectangle.cs
+│ ├── Shape.cs
+│ ├── Phone.cs
+│ ├── SmartPhone.cs
+│ ├── Tablet.cs
+│ └── Interfaces & Classes...
 │
 ├── Day05
 │ ├── Day05.sln
-│ ├── Day05/
-│ │ ├── Program.cs
-│ │ ├── Calculator.cs
-│ │ ├── Payment.cs
-│ │ ├── CreditCardPayment.cs
-│ │ ├── PayPallPayment.cs
-│ │ ├── MyVector.cs
-│ │ ├── Employee.cs
-│ │ ├── Manager.cs
+│ └── Day05/
+│ ├── Program.cs
+│ ├── Calculator.cs
+│ ├── Payment.cs
+│ ├── CreditCardPayment.cs
+│ ├── PayPallPayment.cs
+│ ├── MyVector.cs
+│ ├── Employee.cs
+│ └── Manager.cs
 │
 └── Day06
 ├── Day06.sln
-├── Day06/
+└── Day06/
 ├── Program.cs
 ├── Person.cs
 ├── Student.cs
 ├── Professor.cs
-├── ITeacher.cs
+└── ITeacher.cs
