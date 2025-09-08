@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day05 oop\\day05\\day05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\derivedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\derivedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\paypallpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\paypallpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\middleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\middleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\day05\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B006-5289-4F29-95A6-ED247B770355}|Day05\\Day05.csproj|solutionrelative:day05\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Program.cs",
+              "RelativeDocumentMoniker": "Day05\\Program.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Program.cs",
+              "RelativeToolTip": "Day05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:45:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyVector.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\MyVector.cs",
+              "RelativeDocumentMoniker": "Day05\\MyVector.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\MyVector.cs",
+              "RelativeToolTip": "Day05\\MyVector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:08:18.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Calculator.cs",
+              "RelativeDocumentMoniker": "Day05\\Calculator.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Calculator.cs",
+              "RelativeToolTip": "Day05\\Calculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:59:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Developer.cs",
+              "RelativeDocumentMoniker": "Day05\\Developer.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Developer.cs",
+              "RelativeToolTip": "Day05\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:57:44.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Manager.cs",
+              "RelativeDocumentMoniker": "Day05\\Manager.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Manager.cs",
+              "RelativeToolTip": "Day05\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:56:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Employee.cs",
+              "RelativeDocumentMoniker": "Day05\\Employee.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Employee.cs",
+              "RelativeToolTip": "Day05\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:54:14.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Student.cs",
+              "RelativeDocumentMoniker": "Day05\\Student.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Student.cs",
+              "RelativeToolTip": "Day05\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:02:20.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DerivedClass.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\DerivedClass.cs",
+              "RelativeDocumentMoniker": "Day05\\DerivedClass.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\DerivedClass.cs",
+              "RelativeToolTip": "Day05\\DerivedClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:24:39.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Payment.cs",
+              "RelativeDocumentMoniker": "Day05\\Payment.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\Payment.cs",
+              "RelativeToolTip": "Day05\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:46:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PayPallPayment.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\PayPallPayment.cs",
+              "RelativeDocumentMoniker": "Day05\\PayPallPayment.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\PayPallPayment.cs",
+              "RelativeToolTip": "Day05\\PayPallPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:49:56.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Day05\\BaseClass.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\BaseClass.cs",
+              "RelativeToolTip": "Day05\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:23:11.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiddleClass.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\MiddleClass.cs",
+              "RelativeDocumentMoniker": "Day05\\MiddleClass.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\MiddleClass.cs",
+              "RelativeToolTip": "Day05\\MiddleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:23:46.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "Day05\\CreditCardPayment.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day05 oop\\Day05\\Day05\\CreditCardPayment.cs",
+              "RelativeToolTip": "Day05\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:48:44.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

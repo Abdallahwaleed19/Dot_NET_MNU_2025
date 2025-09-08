@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\bin\Debug\net9.0\Day02.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\bin\Debug\net9.0\Day02.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\bin\Debug\net9.0\Day02.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\bin\Debug\net9.0\Day02.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\bin\Debug\net9.0\Day02.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\refint\Day02.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\Day02.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day02\Day02\Day02\obj\Debug\net9.0\ref\Day02.dll
