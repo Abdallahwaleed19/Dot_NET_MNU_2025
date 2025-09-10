@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\payslipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\payslipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\generalworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\generalworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\ipayslipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\ipayslipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\ibonuscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\ibonuscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|d:\\menoufia national university 2024-2025\\iti files 2025\\.net 2025-2027\\c#\\codes\\task day10 advanced c#\\day10\\day10\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2307B2FD-F05C-457E-8DAE-8ABA94650A69}|Day10\\Day10.csproj|solutionrelative:day10\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Program.cs",
+              "RelativeDocumentMoniker": "Day10\\Program.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Program.cs",
+              "RelativeToolTip": "Day10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:48:41.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Worker.cs",
+              "RelativeDocumentMoniker": "Day10\\Worker.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Worker.cs",
+              "RelativeToolTip": "Day10\\Worker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:04:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayslipGenerator.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\PayslipGenerator.cs",
+              "RelativeDocumentMoniker": "Day10\\PayslipGenerator.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\PayslipGenerator.cs",
+              "RelativeToolTip": "Day10\\PayslipGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:00:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generalworker.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Generalworker.cs",
+              "RelativeDocumentMoniker": "Day10\\Generalworker.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Generalworker.cs",
+              "RelativeToolTip": "Day10\\Generalworker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:08:45.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Developer.cs",
+              "RelativeDocumentMoniker": "Day10\\Developer.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Developer.cs",
+              "RelativeToolTip": "Day10\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:07:51.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Manager.cs",
+              "RelativeDocumentMoniker": "Day10\\Manager.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Manager.cs",
+              "RelativeToolTip": "Day10\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:06:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\EmailService.cs",
+              "RelativeDocumentMoniker": "Day10\\EmailService.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\EmailService.cs",
+              "RelativeToolTip": "Day10\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:03:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPayslipGenerator.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IPayslipGenerator.cs",
+              "RelativeDocumentMoniker": "Day10\\IPayslipGenerator.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IPayslipGenerator.cs",
+              "RelativeToolTip": "Day10\\IPayslipGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:01:47.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Day10\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Day10\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:54:09.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBonusCalculator.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IBonusCalculator.cs",
+              "RelativeDocumentMoniker": "Day10\\IBonusCalculator.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IBonusCalculator.cs",
+              "RelativeToolTip": "Day10\\IBonusCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:59:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Day10\\IEmailService.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\IEmailService.cs",
+              "RelativeToolTip": "Day10\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:59:57.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Day10\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\EmployeeRepository.cs",
+              "RelativeToolTip": "Day10\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:56:45.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Employee.cs",
+              "RelativeDocumentMoniker": "Day10\\Employee.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Employee.cs",
+              "RelativeToolTip": "Day10\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:33:48.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Filelogger.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Filelogger.cs",
+              "RelativeDocumentMoniker": "Day10\\Filelogger.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\ITI Files 2025\\.Net 2025-2027\\C#\\Codes\\Task Day10 Advanced C#\\Day10\\Day10\\Filelogger.cs",
+              "RelativeToolTip": "Day10\\Filelogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:25:00.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

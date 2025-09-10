@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\bin\Debug\net9.0\Day10.exe
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\bin\Debug\net9.0\Day10.deps.json
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\bin\Debug\net9.0\Day10.runtimeconfig.json
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\bin\Debug\net9.0\Day10.dll
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\bin\Debug\net9.0\Day10.pdb
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.sourcelink.json
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.dll
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\refint\Day10.dll
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.pdb
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\Day10.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day10 Advanced C#\Day10\Day10\obj\Debug\net9.0\ref\Day10.dll
