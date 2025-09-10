@@ -42,7 +42,7 @@ Install an IDE (e.g., Visual Studio
 
 Installation
 # Clone the repository
-git clone https://github.com/username/ProjectName.git
+git clone https://github.com/Abdallahwaleed19/Dot_NET_MNU_2025.git
 cd ProjectName
 
 # Restore dependencies
