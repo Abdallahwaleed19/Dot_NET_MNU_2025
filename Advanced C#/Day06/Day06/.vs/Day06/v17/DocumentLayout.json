@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\watertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\watertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\orderconfirmationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\orderconfirmationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\lightsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\lightsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\lampcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\lampcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\doorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\doorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\doorlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\doorlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\dooreventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\dooreventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|d:\\menoufia national university 2024-2025\\visual studio- projects\\c#\\advanced c#\\day06\\day06\\day06\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FE6E1C-FD11-4931-90D0-74DCE8804ED4}|Day06\\Day06.csproj|solutionrelative:day06\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaterTank.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\WaterTank.cs",
+              "RelativeDocumentMoniker": "Day06\\WaterTank.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\WaterTank.cs",
+              "RelativeToolTip": "Day06\\WaterTank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:32:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pump.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\Pump.cs",
+              "RelativeDocumentMoniker": "Day06\\Pump.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\Pump.cs",
+              "RelativeToolTip": "Day06\\Pump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:32:29.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderConfirmationService.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\OrderConfirmationService.cs",
+              "RelativeDocumentMoniker": "Day06\\OrderConfirmationService.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\OrderConfirmationService.cs",
+              "RelativeToolTip": "Day06\\OrderConfirmationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:32:21.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\Order.cs",
+              "RelativeDocumentMoniker": "Day06\\Order.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\Order.cs",
+              "RelativeToolTip": "Day06\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:32:16.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightSensor.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\LightSensor.cs",
+              "RelativeDocumentMoniker": "Day06\\LightSensor.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\LightSensor.cs",
+              "RelativeToolTip": "Day06\\LightSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:32:08.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LampController.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\LampController.cs",
+              "RelativeDocumentMoniker": "Day06\\LampController.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\LampController.cs",
+              "RelativeToolTip": "Day06\\LampController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:32:04.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "Day06\\FileProcessor.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\FileProcessor.cs",
+              "RelativeToolTip": "Day06\\FileProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:31:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoorSystem.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\DoorSystem.cs",
+              "RelativeDocumentMoniker": "Day06\\DoorSystem.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\DoorSystem.cs",
+              "RelativeToolTip": "Day06\\DoorSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:31:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoorLock.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\DoorLock.cs",
+              "RelativeDocumentMoniker": "Day06\\DoorLock.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\DoorLock.cs",
+              "RelativeToolTip": "Day06\\DoorLock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:31:48.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\Program.cs",
+              "RelativeDocumentMoniker": "Day06\\Program.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\Program.cs",
+              "RelativeToolTip": "Day06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:30:58.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoorEventArgs.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\DoorEventArgs.cs",
+              "RelativeDocumentMoniker": "Day06\\DoorEventArgs.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\DoorEventArgs.cs",
+              "RelativeToolTip": "Day06\\DoorEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:31:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoffeeMachine.cs",
+              "DocumentMoniker": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\CoffeeMachine.cs",
+              "RelativeDocumentMoniker": "Day06\\CoffeeMachine.cs",
+              "ToolTip": "D:\\Menoufia National University 2024-2025\\Visual studio- projects\\C#\\Advanced C#\\Day06\\Day06\\Day06\\CoffeeMachine.cs",
+              "RelativeToolTip": "Day06\\CoffeeMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:31:37.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

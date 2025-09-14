@@ -1,0 +1,17 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\bin\Debug\net9.0-windows\Top-Down Space Shooter.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\bin\Debug\net9.0-windows\Top-Down Space Shooter.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\bin\Debug\net9.0-windows\Top-Down Space Shooter.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\bin\Debug\net9.0-windows\Top-Down Space Shooter.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\bin\Debug\net9.0-windows\Top-Down Space Shooter.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top_Down_Space_Shooter.Form1.resources
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.csproj.GenerateResource.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\refint\Top-Down Space Shooter.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\Top-Down Space Shooter.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\Advanced C#\Day07\Top-Down Space Shooter\Top-Down Space Shooter\obj\Debug\net9.0-windows\ref\Top-Down Space Shooter.dll

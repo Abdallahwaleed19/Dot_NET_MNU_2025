@@ -1,0 +1,18 @@
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\bin\Debug\net9.0-windows\Simple Address Book.exe
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\bin\Debug\net9.0-windows\Simple Address Book.deps.json
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\bin\Debug\net9.0-windows\Simple Address Book.runtimeconfig.json
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\bin\Debug\net9.0-windows\Simple Address Book.dll
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\bin\Debug\net9.0-windows\Simple Address Book.pdb
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple_Address_Book.Simple_Address_Book.resources
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple_Address_Book.Properties.Resources.resources
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.csproj.GenerateResource.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.sourcelink.json
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.dll
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\refint\Simple Address Book.dll
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.pdb
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\Simple Address Book.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\ITI Files 2025\.Net 2025-2027\C#\Codes\Task Day13 Advanced C#\Simple Address Book\Simple Address Book\obj\Debug\net9.0-windows\ref\Simple Address Book.dll
