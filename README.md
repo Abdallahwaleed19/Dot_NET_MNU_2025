@@ -93,4 +93,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 📧 Contact
 Abdallah Waleed Kamal - Waleedabdallah238@gmail.com - abdallahwaleed238@outlook.com 
 Portfolio : https://abdallahwaleed-portfolio.netlify.app
-Project Link: https://github.com/your_username/your_project_name
+Project Link: https://github.com/Abdallahwaleed19/Dot_NET_MNU_2025.git
