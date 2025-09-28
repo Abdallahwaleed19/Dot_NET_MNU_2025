@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\bin\Debug\net9.0\LongestValidParentheses.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\bin\Debug\net9.0\LongestValidParentheses.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\bin\Debug\net9.0\LongestValidParentheses.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\bin\Debug\net9.0\LongestValidParentheses.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\bin\Debug\net9.0\LongestValidParentheses.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\refint\LongestValidParentheses.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\LongestValidParentheses.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestValidParentheses\LongestValidParentheses\obj\Debug\net9.0\ref\LongestValidParentheses.dll

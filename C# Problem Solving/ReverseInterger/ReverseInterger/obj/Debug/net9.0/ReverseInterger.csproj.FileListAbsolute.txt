@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\bin\Debug\net9.0\ReverseInterger.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\bin\Debug\net9.0\ReverseInterger.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\bin\Debug\net9.0\ReverseInterger.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\bin\Debug\net9.0\ReverseInterger.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\bin\Debug\net9.0\ReverseInterger.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\refint\ReverseInterger.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ReverseInterger.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseInterger\ReverseInterger\obj\Debug\net9.0\ref\ReverseInterger.dll

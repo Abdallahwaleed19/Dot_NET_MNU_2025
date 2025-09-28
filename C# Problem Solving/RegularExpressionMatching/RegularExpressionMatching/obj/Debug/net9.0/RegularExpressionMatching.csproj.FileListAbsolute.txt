@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\bin\Debug\net9.0\RegularExpressionMatching.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\refint\RegularExpressionMatching.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\RegularExpressionMatching.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RegularExpressionMatching\RegularExpressionMatching\obj\Debug\net9.0\ref\RegularExpressionMatching.dll

@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\bin\Debug\net9.0\integertoRomain.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\bin\Debug\net9.0\integertoRomain.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\bin\Debug\net9.0\integertoRomain.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\bin\Debug\net9.0\integertoRomain.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\bin\Debug\net9.0\integertoRomain.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\refint\integertoRomain.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\integertoRomain.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\integertoRomain\integertoRomain\obj\Debug\net9.0\ref\integertoRomain.dll

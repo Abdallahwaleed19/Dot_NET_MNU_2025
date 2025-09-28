@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\bin\Debug\net9.0\LongestPlaindromicSubstring.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\bin\Debug\net9.0\LongestPlaindromicSubstring.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\bin\Debug\net9.0\LongestPlaindromicSubstring.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\bin\Debug\net9.0\LongestPlaindromicSubstring.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\bin\Debug\net9.0\LongestPlaindromicSubstring.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\refint\LongestPlaindromicSubstring.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\LongestPlaindromicSubstring.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\LongestPlaindromicSubstring\LongestPlaindromicSubstring\obj\Debug\net9.0\ref\LongestPlaindromicSubstring.dll

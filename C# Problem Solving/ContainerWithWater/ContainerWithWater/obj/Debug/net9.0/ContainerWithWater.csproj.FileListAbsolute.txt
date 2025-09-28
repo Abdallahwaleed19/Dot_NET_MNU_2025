@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\bin\Debug\net9.0\ContainerWithWater.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\bin\Debug\net9.0\ContainerWithWater.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\bin\Debug\net9.0\ContainerWithWater.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\bin\Debug\net9.0\ContainerWithWater.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\bin\Debug\net9.0\ContainerWithWater.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\refint\ContainerWithWater.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ContainerWithWater.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ContainerWithWater\ContainerWithWater\obj\Debug\net9.0\ref\ContainerWithWater.dll

@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\bin\Debug\net9.0\RomaintoInteger.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\bin\Debug\net9.0\RomaintoInteger.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\bin\Debug\net9.0\RomaintoInteger.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\bin\Debug\net9.0\RomaintoInteger.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\bin\Debug\net9.0\RomaintoInteger.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\refint\RomaintoInteger.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\RomaintoInteger.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\RomaintoInteger\RomaintoInteger\obj\Debug\net9.0\ref\RomaintoInteger.dll

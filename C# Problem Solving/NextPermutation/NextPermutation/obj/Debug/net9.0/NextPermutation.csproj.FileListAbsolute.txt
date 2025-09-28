@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\bin\Debug\net9.0\NextPermutation.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\bin\Debug\net9.0\NextPermutation.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\bin\Debug\net9.0\NextPermutation.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\bin\Debug\net9.0\NextPermutation.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\bin\Debug\net9.0\NextPermutation.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\refint\NextPermutation.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\NextPermutation.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\NextPermutation\NextPermutation\obj\Debug\net9.0\ref\NextPermutation.dll

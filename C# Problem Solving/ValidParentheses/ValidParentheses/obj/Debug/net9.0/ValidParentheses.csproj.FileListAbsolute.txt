@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\bin\Debug\net9.0\ValidParentheses.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\bin\Debug\net9.0\ValidParentheses.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\bin\Debug\net9.0\ValidParentheses.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\bin\Debug\net9.0\ValidParentheses.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\bin\Debug\net9.0\ValidParentheses.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\refint\ValidParentheses.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ValidParentheses.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ValidParentheses\ValidParentheses\obj\Debug\net9.0\ref\ValidParentheses.dll

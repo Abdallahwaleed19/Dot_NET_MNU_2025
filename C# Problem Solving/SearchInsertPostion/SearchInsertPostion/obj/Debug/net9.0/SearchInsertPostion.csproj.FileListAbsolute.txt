@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\bin\Debug\net9.0\SearchInsertPostion.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\bin\Debug\net9.0\SearchInsertPostion.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\bin\Debug\net9.0\SearchInsertPostion.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\bin\Debug\net9.0\SearchInsertPostion.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\bin\Debug\net9.0\SearchInsertPostion.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\refint\SearchInsertPostion.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\SearchInsertPostion.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SearchInsertPostion\SearchInsertPostion\obj\Debug\net9.0\ref\SearchInsertPostion.dll

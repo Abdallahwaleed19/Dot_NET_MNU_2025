@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\bin\Debug\net9.0\SwapNodesinPairs.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\bin\Debug\net9.0\SwapNodesinPairs.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\bin\Debug\net9.0\SwapNodesinPairs.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\bin\Debug\net9.0\SwapNodesinPairs.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\bin\Debug\net9.0\SwapNodesinPairs.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\refint\SwapNodesinPairs.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\SwapNodesinPairs.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\SwapNodesinPairs\SwapNodesinPairs\obj\Debug\net9.0\ref\SwapNodesinPairs.dll

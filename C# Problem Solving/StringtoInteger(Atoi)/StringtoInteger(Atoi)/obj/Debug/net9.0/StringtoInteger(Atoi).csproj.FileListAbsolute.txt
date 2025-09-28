@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\bin\Debug\net9.0\StringtoInteger(Atoi).exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\bin\Debug\net9.0\StringtoInteger(Atoi).deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\bin\Debug\net9.0\StringtoInteger(Atoi).runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\bin\Debug\net9.0\StringtoInteger(Atoi).dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\bin\Debug\net9.0\StringtoInteger(Atoi).pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\refint\StringtoInteger(Atoi).dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\StringtoInteger(Atoi).genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\StringtoInteger(Atoi)\StringtoInteger(Atoi)\obj\Debug\net9.0\ref\StringtoInteger(Atoi).dll

@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\bin\Debug\net9.0\ReverseNodesinKGRoup.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\bin\Debug\net9.0\ReverseNodesinKGRoup.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\bin\Debug\net9.0\ReverseNodesinKGRoup.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\bin\Debug\net9.0\ReverseNodesinKGRoup.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\bin\Debug\net9.0\ReverseNodesinKGRoup.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\refint\ReverseNodesinKGRoup.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ReverseNodesinKGRoup.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ReverseNodesinKGRoup\ReverseNodesinKGRoup\obj\Debug\net9.0\ref\ReverseNodesinKGRoup.dll

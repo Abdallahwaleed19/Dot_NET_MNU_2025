@@ -1,0 +1,15 @@
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\bin\Debug\net9.0\ZigzagConversation.exe
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\bin\Debug\net9.0\ZigzagConversation.deps.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\bin\Debug\net9.0\ZigzagConversation.runtimeconfig.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\bin\Debug\net9.0\ZigzagConversation.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\bin\Debug\net9.0\ZigzagConversation.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.AssemblyInfoInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.AssemblyInfo.cs
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.csproj.CoreCompileInputs.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.sourcelink.json
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\refint\ZigzagConversation.dll
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.pdb
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ZigzagConversation.genruntimeconfig.cache
+D:\Menoufia National University 2024-2025\Visual studio- projects\C#\C# Problem Solving\ZigzagConversation\ZigzagConversation\obj\Debug\net9.0\ref\ZigzagConversation.dll
